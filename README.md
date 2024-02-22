@@ -24,3 +24,19 @@ Hasil dari eksperimen menunjukkan potensi pendekatan deep learning dalam meningk
 ## How to Use
 Instruksi tentang cara menjalankan kode, termasuk instalasi library yang diperlukan (`keras-tuner`, `tensorflow`, dll.), pemisahan data, pelatihan model, dan evaluasi, disediakan dalam notebook.
 
+### Team Name: The Woz (Computer Vision)
+
+---
+
+**Created By:**
+
+- C Yongky Pranowo
+- Faiq Fahreza
+- Aditya Lesmana
+- Bernadetta Alnybera F
+- Fatkur Alfian
+- Habibullah
+- Ibnu
+
+---
+
